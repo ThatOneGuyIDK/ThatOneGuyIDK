@@ -1,5 +1,4 @@
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) 
-
+![<Badge Name>]([https://img.shields.io/badge/](www.linkedin.com/in/thomas-g-van-pelt)
 # 👋 Hi, I’m Thomas
 
 I’m a developer and Founder with a strong focus on **systems, infrastructure, and cross-platform applications**. I enjoy building things end-to-end — from low-level logic and backend services to real-time apps and custom hardware integrations.
