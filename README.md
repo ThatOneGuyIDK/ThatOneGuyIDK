@@ -5,6 +5,13 @@ I’m a developer and Founder with a strong focus on **systems, infrastructure, 
 I care about **performance, correctness, and understanding how things work under the hood**.
 
 ---
+## Hackathons & Entrepreneurship Events
+- HooHacks: ideathon / pitch camp 2025
+- AI Estimathon 2026
+- Darden School of Business:  ILab Pitch Camp 2026 & 2026
+
+
+
 
 ## 🔧 What I Work With
 
@@ -18,10 +25,10 @@ I care about **performance, correctness, and understanding how things work under
 - 
 
 ### Platforms & Tooling
-- **Linux (Ubuntu)** – daily driver, servers, hardening
+- **Linux (Ubuntu)** –  servers, AI Projects
 - **Docker** – containerized services and deployments
-- **Git / GitHub** – version control & collaboration
-- **REST / OpenAI-compatible APIs** – custom AI integrations
+- **REST / OpenAI-compatible APIs** – Basic AI integrations
+- **AI Tools** - Cursor, lovable, Claude, Gemini, DeepSeek, ChatGPT, etc. 
 
 ---
 
@@ -36,10 +43,11 @@ I care about **performance, correctness, and understanding how things work under
 
 ## 🚀 Projects I’m Building
 - **Cross-platform Flutter apps** (mobile, desktop, external displays)
-- **Self-hosted AI assistants** using local models and OpenAI-compatible APIs
-- **Raspberry Pi & mini-PC servers** for automation, AI, and game hosting
-- **Real-time location & multiplayer systems**
-- **Predictive Modeling Systems**
+- HomePod: **Self-hosted AI assistants using local models and OpenAI-compatible APIs**
+- **Local Linux Server: Raspberry Pi & mini-PC servers** for automation, AI, and game hosting
+- Catch Tag App: **Real-time location & multiplayer systems**
+- Solar Installation Time Esimator: **Predictive Modeling Systems**
+-MyBook Marketplace **AWS datpipelines and full marketplace database** 
 - **Digital Accesibilty Systems**
   
 
@@ -48,4 +56,5 @@ I care about **performance, correctness, and understanding how things work under
 ## 📫 Get in Touch
 - GitHub: you’re already here 🙂
 - Open to collaboration on systems, infrastructure, and app projects
+- Big Fan of Start-up full stack development
 
